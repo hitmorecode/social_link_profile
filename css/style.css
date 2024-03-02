@@ -85,6 +85,7 @@ h1 {
 	color: var(--neutral-white);
 	margin-top: 2.8rem;
 	margin-bottom: 1rem;
+	font-weight: var(--font-weight-700);
 }
 
 .location {
