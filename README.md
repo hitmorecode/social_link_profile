@@ -13,7 +13,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/screenshot_01.jpg)
+![](./screenshot/screenshot_02.jpg)
 
 
 ### Links
 
-- Solution URL: [HTML Solution](https://github.com/hitmorecode/blog_preview_card_main/blob/main/index.html)
-- Solution URL: [CSS Solution](https://github.com/hitmorecode/blog_preview_card_main/blob/main/css/style.css)
-- Live Site URL: [Live site](https://hitmorecode.github.io/blog_preview_card_main/)
+- Solution URL: [HTML Solution](https://github.com/hitmorecode/social_link_profile/blob/main/index.html)
+- Solution URL: [CSS Solution](https://github.com/hitmorecode/social_link_profile/blob/main/css/style.css)
+- Live Site URL: [Live site](https://hitmorecode.github.io/social_link_profile/)
 
 ## My process
 
